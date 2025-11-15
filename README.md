@@ -1,7 +1,3 @@
-Absolutely, Prafful! Here's a clean and professional README tailored for your **Weather Data ETL Pipeline** project, ideal for showcasing on GitHub or your portfolio:
-
----
-
 # 🌦️ Weather Data ETL Pipeline – Apache Airflow on Astronomer
 
 This project demonstrates a production-grade ETL pipeline using Apache Airflow to ingest, transform, and analyze weather-related data. Built with Astronomer CLI, it runs locally in a containerized environment and showcases dynamic task mapping and Python-native DAGs.
